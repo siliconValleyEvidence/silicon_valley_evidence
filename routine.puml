@@ -1,26 +1,38 @@
 @startuml
+title 针对开发商降价减配行为维护消费者权益\n操作指南
 repeat :存档减配证据
-switch (上周开发商的工作成果与交流态度)
+switch (依据上周开发商的工作成果与交流态度)
 case ( 好 )
-  :降低微博与抖音曝光频率、投诉力度；降级曝光方式;
+  :降低微博与抖音曝光频率、投诉力度；\n降级曝光方式;
+  :业主代表准备周末前去售楼部;
 case ( 不好 )
-  :提高微博与抖音曝光频率、投诉力度；升级曝光方式;
+  :提高微博与抖音曝光频率、投诉力度；\n升级曝光方式;
+  :全体业主准备周末前去售楼部;
 endswitch
 :周末10点集合约谈开发商;
   if (检查开发商上周问题落实情况) then (落实的好)
-      :沟通协商现存问题;
+      label sp_lab
+      label sp_lab1
+      label sp_lab
+      :业主代表携监管站书面凭证跟开发商谈判\n前去的业主中随机抽两个去旁听;
       :当下给出工程进度;
+      floating note left: 开发商与建筑商提供
   else (落实的不好)
-    if (能否继续沟通) then (态度不好)
-        #YELLOW :现场拍照打卡A4留念;
-        floating note left: 开发商知道后果
-    else (态度好)
-    :继续协商;
-    :当下给出工程进度;
+    if (能否继续沟通) then (态度好)
+    label sp_lab
+    goto sp_lab1
+'    :继续协商;
+'    :当下给出工程进度;
+    else (态度不好)
+    label sp_lab3
+    label sp_lab4
+    label sp_lab5
+    #YELLOW :全体业主现场拍照打卡A4留念;
+    floating note right: 开发商知道后果
     endif
   endif
-    floating note left: 开发商与建筑商提供
     :12点吃盒饭;
-    :参观工地，查找问题，收集减配证据;
+    :参观工地，对照图纸收集减配证据;
+    :向区建筑局监管站举报，要求给出与开发商沟通的书面凭证;
 repeat while (形成新的减配证据与结论)
 @enduml
