@@ -22,7 +22,7 @@
 ## 减配类问题
 1. 是不是正宗的万科物业？  
 
-   <img src="https://github.com/silicon-valley-evidence/silicon_valley_evidence/blob/master/S-%E5%94%AE%E6%A5%BC%E9%83%A8%E5%85%AC%E7%A4%BA/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221120235719.jpg" alt="万科物业与售楼处" width="600px" height="800px"/>  
+   <img src="https://github.com/SiliconValleyEvidence/silicon_valley_evidence/blob/master/S-%E5%94%AE%E6%A5%BC%E9%83%A8%E5%85%AC%E7%A4%BA/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221120235719.jpg" alt="万科物业与售楼处" width="600px" height="800px"/>  
    
    * 万科物业服务的小区，会在的[住这儿APP](https://apps.apple.com/cn/app/%E4%BD%8F%E8%BF%99%E5%84%BF-%E4%B8%BA%E7%A4%BE%E5%8C%BA%E5%85%AC%E5%85%B1%E6%9D%83%E7%9B%8A%E8%80%8C%E7%94%9F/id732660211)列出小区名称，通过管家服务缴纳物业费。  
    * [《湖北省商品房销售明码标价规定实施细则》](http://www.fangxian.gov.cn/xxgk/fdzdgknr/zdjsxm/sgxx/201809/t20180913_1557886.shtml#:~:text=%E5%95%86%E5%93%81%E6%88%BF%E9%94%80%E5%94%AE%E6%97%B6%E9%80%89%E8%81%98%E4%BA%86%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86%E4%BC%81%E4%B8%9A%E7%9A%84%EF%BC%8C%E5%95%86%E5%93%81%E6%88%BF%E7%BB%8F%E8%90%A5%E8%80%85%E5%BA%94%E5%BD%93%E5%85%AC%E7%A4%BA%E7%89%A9%E4%B8%9A%E6%9C%8D%E5%8A%A1%E5%86%85%E5%AE%B9%E3%80%81%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E5%8F%8A%E6%94%B6%E8%B4%B9%E4%BE%9D%E6%8D%AE%E3%80%81%E6%94%B6%E8%B4%B9%E6%A0%87%E5%87%86%E3%80%82)商品房销售时选聘了物业管理企业的，商品房经营者应当公示物业服务内容、服务标准及收费依据、收费标准。
@@ -33,11 +33,11 @@
 * 新建商品房的交付方案、竣工验收资料及测绘（实测）成果证明文件，应在交付现场、网络平台公示不少于30日。
 * 不能如期交付的，房地产开发企业应提前30日书面告知买受人，并承担违约责任。  
 
-   <img src="https://github.com/silicon-valley-evidence/silicon_valley_evidence/raw/master/S-%E5%94%AE%E6%A5%BC%E9%83%A8%E5%85%AC%E7%A4%BA/IMG_9430.JPG" alt="毛坯交付标准" width="600px" height="800px"/>  
+   <img src="https://github.com/SiliconValleyEvidence/silicon_valley_evidence/raw/master/S-%E5%94%AE%E6%A5%BC%E9%83%A8%E5%85%AC%E7%A4%BA/IMG_9430.JPG" alt="毛坯交付标准" width="600px" height="800px"/>  
 
-   <img src="https://github.com/silicon-valley-evidence/silicon_valley_evidence/raw/master/G-%E8%A7%84%E5%88%92%E6%96%B9%E6%A1%88/20220118101027794.jpg" alt="一期项目规划方案批前公示"/>  
+   <img src="https://github.com/SiliconValleyEvidence/silicon_valley_evidence/raw/master/G-%E8%A7%84%E5%88%92%E6%96%B9%E6%A1%88/20220118101027794.jpg" alt="一期项目规划方案批前公示"/>  
 
-   <img src="https://github.com/silicon-valley-evidence/silicon_valley_evidence/raw/master/S-%E5%94%AE%E6%A5%BC%E9%83%A8%E5%85%AC%E7%A4%BA/IMG_20220417_125056.jpg" alt="全公建化外立面" width="270px" height="600px"/>  
+   <img src="https://github.com/SiliconValleyEvidence/silicon_valley_evidence/raw/master/S-%E5%94%AE%E6%A5%BC%E9%83%A8%E5%85%AC%E7%A4%BA/IMG_20220417_125056.jpg" alt="全公建化外立面" width="270px" height="600px"/>  
 
 4. 连廊栏杆
 > 答：对于业主关心的连廊栏杆，我们会严格按照规划审批的玻璃栏杆交付。
@@ -56,7 +56,7 @@
 2. 售楼部先前打出公示：拒绝降价减配，实力成就不凡；实力+品质=不降价。业主担心在降价的事实中是否还会出现减配的问题？
 3. [新闻记者](http://m.fangchan.com/news/1/2022-09-06/6972718738475127122.html)获悉，武汉市汉阳区住房保障和房屋管理局也已向……开出了“监管函”，要求……在收到函后停止一切关于项目的销售宣传活动，立即组织自查整改，并对8月31日当天已购房群体及时办理退款，不得办理网签备案手续。
 
-<img src="https://github.com/silicon-valley-evidence/silicon_valley_evidence/raw/master/S-%E5%94%AE%E6%A5%BC%E9%83%A8%E5%85%AC%E7%A4%BA/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220414144512.jpg" alt="拒绝降价减配公示" width="600px" height="800px"/>
+<img src="https://github.com/SiliconValleyEvidence/silicon_valley_evidence/raw/master/S-%E5%94%AE%E6%A5%BC%E9%83%A8%E5%85%AC%E7%A4%BA/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220414144512.jpg" alt="拒绝降价减配公示" width="600px" height="800px"/>
 
 ## 承诺事项追踪落实
 1. 首次**工地开放日**安排在什么时候？
@@ -65,7 +65,7 @@
    > 答：每月一次在项目公司微信公众号上发布工地进度，便于业主更好的了解项目进度和施工等情况。
 
 ## 开发商书面回复
-1. 2022.4.22，[回复市监局的情况说明](https://github.com/silicon-valley-evidence/silicon_valley_evidence/raw/master/G-%E7%A1%85%E8%B0%B7%E5%9B%9E%E5%A4%8D/%E5%9B%9E%E5%A4%8D%E5%B8%82%E7%9B%91%E5%B1%80%E7%9A%84%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E.pdf)
+1. 2022.4.22，[回复市监局的情况说明](https://github.com/SiliconValleyEvidence/silicon_valley_evidence/raw/master/G-%E7%A1%85%E8%B0%B7%E5%9B%9E%E5%A4%8D/%E5%9B%9E%E5%A4%8D%E5%B8%82%E7%9B%91%E5%B1%80%E7%9A%84%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E.pdf)
 
 
 
