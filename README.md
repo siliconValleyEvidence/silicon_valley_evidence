@@ -65,7 +65,8 @@
    > 答：每月一次在项目公司微信公众号上发布工地进度，便于业主更好的了解项目进度和施工等情况。
 
 ## 开发商书面回复
-1. 2022.4.22，[回复市监局的情况说明](https://github.com/SiliconValleyEvidence/silicon_valley_evidence/raw/master/G-%E7%A1%85%E8%B0%B7%E5%9B%9E%E5%A4%8D/%E5%9B%9E%E5%A4%8D%E5%B8%82%E7%9B%91%E5%B1%80%E7%9A%84%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E.pdf)
+1. 2022.4.22，[回复市监局的情况说明](https://github.com/siliconValleyEvidence/silicon_valley_evidence/blob/master/G-%E7%A1%85%E8%B0%B7%E6%B2%9F%E9%80%9A/%E4%B8%9A%E4%B8%BB%E5%BC%80%E5%8F%91%E5%95%86%E6%B2%9F%E9%80%9A/0A-%E5%9B%9E%E5%A4%8D%E5%B8%82%E7%9B%91%E5%B1%80%E7%9A%84%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E.pdf)
+2. 2022.12.2，[业主回复（完整版盖章扫描）](https://github.com/siliconValleyEvidence/silicon_valley_evidence/blob/master/G-%E7%A1%85%E8%B0%B7%E6%B2%9F%E9%80%9A/%E4%B8%9A%E4%B8%BB%E5%BC%80%E5%8F%91%E5%95%86%E6%B2%9F%E9%80%9A/1A-%E4%B8%9A%E4%B8%BB%E5%9B%9E%E5%A4%8D%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%E7%9B%96%E7%AB%A0%E6%89%AB%E6%8F%8F%EF%BC%89.pdf)
 
 
 
