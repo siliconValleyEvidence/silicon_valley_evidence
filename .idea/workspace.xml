@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe1ef2dd-fc22-4d4b-bfcd-793dcc69a321" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-硅谷沟通/时间线.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routine.puml" beforeDir="false" afterPath="$PROJECT_DIR$/routine.puml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="SOFT" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="32af310c-fb07-47c5-9365-db0aa2cae4a1" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,13 +51,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Desktop/mine/买房/硅谷小镇宣传证据&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Desktop/mine/买房/硅谷小镇宣传证据/Z-装修报价&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Subversion.SSH&quot;,
@@ -62,6 +68,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\mine\买房\硅谷小镇宣传证据\Z-装修报价" />
       <recent name="D:\Desktop\mine\买房\硅谷小镇宣传证据" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -229,41 +236,16 @@
       <workItem from="1669202966425" duration="2407000" />
       <workItem from="1669278185995" duration="694000" />
       <workItem from="1669984238858" duration="155333000" />
-    </task>
-    <task id="LOCAL-00020" summary="add">
-      <created>1650507582292</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1650507582292</updated>
-    </task>
-    <task id="LOCAL-00021" summary="add">
-      <created>1650592901088</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1650592901088</updated>
-    </task>
-    <task id="LOCAL-00022" summary="add">
-      <created>1650938361121</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1650938361122</updated>
-    </task>
-    <task id="LOCAL-00023" summary="add">
-      <created>1651737555928</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1651737555928</updated>
-    </task>
-    <task id="LOCAL-00024" summary="add">
-      <created>1651738123640</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1651738123640</updated>
+      <workItem from="1686551154676" duration="3544000" />
+      <workItem from="1686640939056" duration="52000" />
+      <workItem from="1686734195148" duration="52000" />
+      <workItem from="1687099341411" duration="712000" />
+      <workItem from="1687334122957" duration="1863000" />
+      <workItem from="1687846179653" duration="296000" />
+      <workItem from="1687932613586" duration="1186000" />
+      <workItem from="1688016964345" duration="282000" />
+      <workItem from="1688017662537" duration="24000" />
+      <workItem from="1688022264837" duration="624000" />
     </task>
     <task id="LOCAL-00025" summary="add">
       <created>1651738375761</created>
@@ -573,7 +555,42 @@
       <option name="project" value="LOCAL" />
       <updated>1669198992297</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="add">
+      <created>1685957387732</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1685957387733</updated>
+    </task>
+    <task id="LOCAL-00070" summary="add">
+      <created>1686551457668</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1686551457669</updated>
+    </task>
+    <task id="LOCAL-00071" summary="add">
+      <created>1686640966811</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1686640966811</updated>
+    </task>
+    <task id="LOCAL-00072" summary="add">
+      <created>1686734211604</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1686734211604</updated>
+    </task>
+    <task id="LOCAL-00073" summary="add">
+      <created>1687139585528</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1687139585529</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
