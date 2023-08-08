@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe1ef2dd-fc22-4d4b-bfcd-793dcc69a321" name="Changes" comment="add" />
+    <list default="true" id="fe1ef2dd-fc22-4d4b-bfcd-793dcc69a321" name="Changes" comment="add">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S-售楼部公示/IMG_20230701_105424.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/S-售楼部公示/IMG_20230701_105424.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +29,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="26rf6m5XC4Ia2xdricOF4GlViK2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,7 +57,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Desktop/mine/买房/硅谷小镇宣传证据/Z-装修报价&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Desktop/mine/W-隐私文件/买房/硅谷小镇宣传证据&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -251,6 +259,9 @@
       <workItem from="1688709193346" duration="280000" />
       <workItem from="1688723660059" duration="186000" />
       <workItem from="1689133893671" duration="274000" />
+      <workItem from="1689134236315" duration="38000" />
+      <workItem from="1690876127481" duration="227000" />
+      <workItem from="1691460331361" duration="305000" />
     </task>
     <task id="LOCAL-00025" summary="add">
       <created>1651738375761</created>
@@ -595,7 +606,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687139585529</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
